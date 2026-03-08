@@ -7,5 +7,6 @@ Personal portfolio website showcasing my data engineering projects.
 
 ## Projects featured
 - End-to-End Azure Data Engineering — Banking Pipeline
-- Financial Data Dashboard — Luxembourg Economic Analysis
+- AWS Data Lake & Warehouse
 - Analytics Engineering with dbt
+- Financial Data Dashboard — Luxembourg Economic Analysis
